@@ -1,0 +1,26 @@
+.background {
+  background: url("../assets/images/login-screen.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.link {
+  color: #0360ef;
+}
+
+.forgotPasswordLink {
+  color: #a6aebb;
+  font-size: 0.625rem;
+  text-align: "center";
+  display: block;
+}
+
+.invalid input {
+  border: 1px solid #fa0724;
+  background-color: #fddddd;
+}
+
+.errorText {
+  color: #fa0724;
+}
